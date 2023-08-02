@@ -1,4 +1,4 @@
-# snmp-rest-client
+# snmp-rest-client [under-development]
 REST based client application for SNMP
 
 # Design and Architecture
